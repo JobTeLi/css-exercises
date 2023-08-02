@@ -1,0 +1,9 @@
+.border-text {
+    background-color: rgb(255, 153, 153);
+    font-family: Verdana, DejaVu sans, sans-serif;
+
+
+}
+.border-text.header {
+    font-size: 24px;
+}
