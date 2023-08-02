@@ -7,3 +7,14 @@
 .border-text.header {
     font-size: 24px;
 }
+
+#title {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#title-two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
